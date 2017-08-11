@@ -1,0 +1,11 @@
+{
+  "name": "timing-h",
+  "version": "1.0.0-alpha.0",
+  "description": "Human readable performance timing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT"
+}
